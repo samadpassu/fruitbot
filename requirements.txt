@@ -1,0 +1,4 @@
+rasa_sdk
+requests
+json
+typing
