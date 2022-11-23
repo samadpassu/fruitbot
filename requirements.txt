@@ -1,2 +1,5 @@
+python - m pip install – upgrade pip
+python - m pip install – upgrade pip
+python - m pip install – upgrade pip
 rasa_sdk
 requests
