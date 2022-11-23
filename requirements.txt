@@ -1,4 +1,4 @@
-–- upgrade pip
+-- upgrade pip
 -- upgrade wheel
 -- upgrade setuptools
 rasa_sdk
