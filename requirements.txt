@@ -1,3 +1,2 @@
 rasa_sdk
 requests
-uvloop
