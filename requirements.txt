@@ -1,5 +1,5 @@
-python - m pip install – upgrade pip
-pip install - upgrade wheel
-pip install - upgrade setuptools
+–- upgrade pip
+-- upgrade wheel
+-- upgrade setuptools
 rasa_sdk
 requests
