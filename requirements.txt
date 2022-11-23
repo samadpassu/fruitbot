@@ -1,5 +1,3 @@
--- upgrade pip
--- upgrade wheel
--- upgrade setuptools
+uvloop==0.17.0
 rasa_sdk
 requests
